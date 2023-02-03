@@ -1,0 +1,11 @@
+{
+    "book": [
+        {
+            "name": "Asadul",
+            "department": "Marketing",
+            "place": "Remote"
+        }
+    ],
+    "student": [],
+    "student_log": []
+}
